@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/gerador-link-whatsapp/static/css/main.fe9cfbe7.chunk.css",
-    "main.js": "/gerador-link-whatsapp/static/js/main.e2d38cac.chunk.js",
-    "main.js.map": "/gerador-link-whatsapp/static/js/main.e2d38cac.chunk.js.map",
+    "main.js": "/gerador-link-whatsapp/static/js/main.9141af73.chunk.js",
+    "main.js.map": "/gerador-link-whatsapp/static/js/main.9141af73.chunk.js.map",
     "runtime-main.js": "/gerador-link-whatsapp/static/js/runtime-main.e3749a0a.js",
     "runtime-main.js.map": "/gerador-link-whatsapp/static/js/runtime-main.e3749a0a.js.map",
     "static/css/2.03923625.chunk.css": "/gerador-link-whatsapp/static/css/2.03923625.chunk.css",
-    "static/js/2.6fd2ac77.chunk.js": "/gerador-link-whatsapp/static/js/2.6fd2ac77.chunk.js",
-    "static/js/2.6fd2ac77.chunk.js.map": "/gerador-link-whatsapp/static/js/2.6fd2ac77.chunk.js.map",
+    "static/js/2.522ba96f.chunk.js": "/gerador-link-whatsapp/static/js/2.522ba96f.chunk.js",
+    "static/js/2.522ba96f.chunk.js.map": "/gerador-link-whatsapp/static/js/2.522ba96f.chunk.js.map",
     "index.html": "/gerador-link-whatsapp/index.html",
-    "precache-manifest.228823c4c0d8da9b9efe910e1ea00f74.js": "/gerador-link-whatsapp/precache-manifest.228823c4c0d8da9b9efe910e1ea00f74.js",
+    "precache-manifest.74fd3db9a07bf04cac2bb4cfca21f153.js": "/gerador-link-whatsapp/precache-manifest.74fd3db9a07bf04cac2bb4cfca21f153.js",
     "service-worker.js": "/gerador-link-whatsapp/service-worker.js",
     "static/css/2.03923625.chunk.css.map": "/gerador-link-whatsapp/static/css/2.03923625.chunk.css.map",
     "static/css/main.fe9cfbe7.chunk.css.map": "/gerador-link-whatsapp/static/css/main.fe9cfbe7.chunk.css.map",
-    "static/js/2.6fd2ac77.chunk.js.LICENSE.txt": "/gerador-link-whatsapp/static/js/2.6fd2ac77.chunk.js.LICENSE.txt"
+    "static/js/2.522ba96f.chunk.js.LICENSE.txt": "/gerador-link-whatsapp/static/js/2.522ba96f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e3749a0a.js",
     "static/css/2.03923625.chunk.css",
-    "static/js/2.6fd2ac77.chunk.js",
+    "static/js/2.522ba96f.chunk.js",
     "static/css/main.fe9cfbe7.chunk.css",
-    "static/js/main.e2d38cac.chunk.js"
+    "static/js/main.9141af73.chunk.js"
   ]
 }
