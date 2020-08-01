@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/gerador-link-whatsapp/static/css/main.fe9cfbe7.chunk.css",
-    "main.js": "/gerador-link-whatsapp/static/js/main.9141af73.chunk.js",
-    "main.js.map": "/gerador-link-whatsapp/static/js/main.9141af73.chunk.js.map",
-    "runtime-main.js": "/gerador-link-whatsapp/static/js/runtime-main.e3749a0a.js",
-    "runtime-main.js.map": "/gerador-link-whatsapp/static/js/runtime-main.e3749a0a.js.map",
-    "static/css/2.03923625.chunk.css": "/gerador-link-whatsapp/static/css/2.03923625.chunk.css",
-    "static/js/2.522ba96f.chunk.js": "/gerador-link-whatsapp/static/js/2.522ba96f.chunk.js",
-    "static/js/2.522ba96f.chunk.js.map": "/gerador-link-whatsapp/static/js/2.522ba96f.chunk.js.map",
-    "index.html": "/gerador-link-whatsapp/index.html",
-    "precache-manifest.74fd3db9a07bf04cac2bb4cfca21f153.js": "/gerador-link-whatsapp/precache-manifest.74fd3db9a07bf04cac2bb4cfca21f153.js",
-    "service-worker.js": "/gerador-link-whatsapp/service-worker.js",
-    "static/css/2.03923625.chunk.css.map": "/gerador-link-whatsapp/static/css/2.03923625.chunk.css.map",
-    "static/css/main.fe9cfbe7.chunk.css.map": "/gerador-link-whatsapp/static/css/main.fe9cfbe7.chunk.css.map",
-    "static/js/2.522ba96f.chunk.js.LICENSE.txt": "/gerador-link-whatsapp/static/js/2.522ba96f.chunk.js.LICENSE.txt"
+    "main.css": "/MeuZap/static/css/main.6e3d38d2.chunk.css",
+    "main.js": "/MeuZap/static/js/main.84a6a09a.chunk.js",
+    "main.js.map": "/MeuZap/static/js/main.84a6a09a.chunk.js.map",
+    "runtime-main.js": "/MeuZap/static/js/runtime-main.fb722d6e.js",
+    "runtime-main.js.map": "/MeuZap/static/js/runtime-main.fb722d6e.js.map",
+    "static/css/2.03923625.chunk.css": "/MeuZap/static/css/2.03923625.chunk.css",
+    "static/js/2.522ba96f.chunk.js": "/MeuZap/static/js/2.522ba96f.chunk.js",
+    "static/js/2.522ba96f.chunk.js.map": "/MeuZap/static/js/2.522ba96f.chunk.js.map",
+    "index.html": "/MeuZap/index.html",
+    "precache-manifest.b078ecc485b575b7c846e7295f855afa.js": "/MeuZap/precache-manifest.b078ecc485b575b7c846e7295f855afa.js",
+    "service-worker.js": "/MeuZap/service-worker.js",
+    "static/css/2.03923625.chunk.css.map": "/MeuZap/static/css/2.03923625.chunk.css.map",
+    "static/css/main.6e3d38d2.chunk.css.map": "/MeuZap/static/css/main.6e3d38d2.chunk.css.map",
+    "static/js/2.522ba96f.chunk.js.LICENSE.txt": "/MeuZap/static/js/2.522ba96f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e3749a0a.js",
+    "static/js/runtime-main.fb722d6e.js",
     "static/css/2.03923625.chunk.css",
     "static/js/2.522ba96f.chunk.js",
-    "static/css/main.fe9cfbe7.chunk.css",
-    "static/js/main.9141af73.chunk.js"
+    "static/css/main.6e3d38d2.chunk.css",
+    "static/js/main.84a6a09a.chunk.js"
   ]
 }
